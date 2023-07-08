@@ -1,7 +1,7 @@
 # Factory-Database
  This repository contains the code and documentation for a full-scale factory application relational database. The database has been developed using DBMS concepts and is designed to meet the specific requirements of factory applications.
 
-## Key Features:
+## Components:
 
 ### Requirements Gathering: 
 Extensive effort was made to gather the requirements of the factory application, ensuring that the database meets the desired functionality and performance goals.
